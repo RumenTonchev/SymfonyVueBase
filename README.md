@@ -1,6 +1,9 @@
 # SymfonyVueBase
 This is a project that combines Symfony and Vue.js
 
+[detailed documentation](https://docs.google.com/document/d/18qDjopEtL6pxolAnWL6zv94j2LYY97b2QMvHfvBF9Uc/edit?usp=sharing)
+
+
 ## Requirements
 PHP 7.1.3 or higher
 
