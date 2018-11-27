@@ -2,6 +2,8 @@
 This is a project that combines Symfony and Vue.js
 
 ## Requirements
+PHP 7.1.3 or higher
+
 [Composer](https://getcomposer.org/)
 
 [Node.js](https://www.npmjs.com/get-npm)
